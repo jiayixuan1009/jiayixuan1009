@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ReggieJ
 - 👀 I’m interested in Fintech
-- 🌱 I’m currently learning CFA
+- 🌱 I’m currently learning fintech and investing
 - 💞️ I’m looking to collaborate on communities
 - 📫 How to reach me 
 
