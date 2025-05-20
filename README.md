@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fintech
 - 🌱 I’m currently learning CFA
 - 💞️ I’m looking to collaborate on communities
-- 📫 How to reach me usernamemannheim@gmail.com
+- 📫 How to reach me 
 
 <!---
 ReggieJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
